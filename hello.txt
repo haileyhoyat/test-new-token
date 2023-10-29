@@ -1,2 +1,3 @@
 This is a text file.
 Now I am making a change to this file.
+I am now in branch1 and am making a change to this specific branch.
